@@ -1,7 +1,6 @@
 #include <iostream>
 #include <string>
 using namespace std;
-
 class BaseArray {
 private:
 	int Capacity; //동적 할당된 메모리 용량
